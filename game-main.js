@@ -5,3 +5,5 @@ var game3 = new Game(3);
 jlnhwnilew
 jnwelnhlwelklhw
 gpmwek
+lnkhlkre
+jterjkmtrž
